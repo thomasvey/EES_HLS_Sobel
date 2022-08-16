@@ -1,0 +1,8 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../src/ctv_colour_tb.cpp in debug mode
+../../../src/ctv_colour_tb.cpp:2:26: fatal error: cvt_colour.hpp: No such file or directory
+compilation terminated.
+make: *** [csim.mk:77: obj/ctv_colour_tb.o] Error 1
+CRITICAL WARNING: [SIM 100] CSim file generation failed: compilation error(s).
+INFO: [SIM 3] *************** CSIM finish ***************

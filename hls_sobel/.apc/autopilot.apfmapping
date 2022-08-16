@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="test.bmp" path="/home/vey/Desktop/EES_HLS_Sobel/hls_sobel/src/test.bmp"/>
+    <originFiles name="read_me" path="/home/vey/Desktop/EES_HLS_Sobel/hls_sobel/src/read_me"/>
+    <originFiles name="ctv_colour.hpp" path="/home/vey/Desktop/EES_HLS_Sobel/hls_sobel/src/ctv_colour.hpp"/>
+    <originFiles name="ctv_colour.cpp" path="/home/vey/Desktop/EES_HLS_Sobel/hls_sobel/src/ctv_colour.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="ctv_colour_tb.cpp" path="/home/vey/Desktop/EES_HLS_Sobel/hls_sobel/src/ctv_colour_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

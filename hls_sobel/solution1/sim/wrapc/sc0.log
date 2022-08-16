@@ -1,0 +1,5 @@
+   Build using "/home/vey/Xilinx_2017/Vivado/2017.4/lnx64/tools/gcc/bin/g++"
+   Compiling ctv_colour_tb.cpp_pre.cpp.tb.cpp
+   Compiling ctv_colour.cpp_pre.cpp.tb.cpp
+   Compiling apatb_image_filter.cpp
+   Generating cosim.tv.exe
